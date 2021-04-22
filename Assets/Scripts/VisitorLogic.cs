@@ -26,7 +26,7 @@ public class VisitorLogic : MonoBehaviour
         {
             if (state != ViusitorState.WAITING)
             {
-                if (Random.value <= 0.45f) return;
+                if (Random.value > 0.45f) return;
             }
 
             chooseAndMove();

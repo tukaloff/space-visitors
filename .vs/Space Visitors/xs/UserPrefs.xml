@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{D7F7810B-BB99-CFD2-F5B7-CAEF7FF70E1B}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VisitorLogic.cs">
     <Files>
+      <File FileName="Assets/Scripts/VisitorLogic.cs" Line="29" Column="35" />
       <File FileName="Assets/Scripts/CircleDisplacement.cs" Line="19" Column="70" />
-      <File FileName="Assets/Scripts/Registrator.cs" Line="21" Column="43" />
-      <File FileName="Assets/Scripts/ChairLogic.cs" Line="13" Column="27" />
-      <File FileName="Assets/Scripts/VisitorLogic.cs" Line="40" Column="41" />
-      <File FileName="Assets/Scripts/ViusitorState.cs" Line="5" Column="12" />
+      <File FileName="Assets/Scripts/Registrator.cs" />
+      <File FileName="Assets/Scripts/ChairLogic.cs" />
+      <File FileName="Assets/Scripts/ViusitorState.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7311f2b3-2975-4d45-9998-afab9cdd5401" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ff46f7e-c49f-40f6-a00d-d98b4967eb23" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/tukaloff/git/Space Visitors/Assets/Scripts/VisitorLogic.cs" relfile="Assets/Scripts/VisitorLogic.cs" line="50" column="1" />
